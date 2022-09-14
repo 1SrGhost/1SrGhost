@@ -8,6 +8,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me at [edgar4698@gmail.com](mailto:edgar4698@gmail.com)
 <p align="left">
   
